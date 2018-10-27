@@ -1,0 +1,359 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="eowl.esy.es" resolutions="1x" timestamp="1526443556810">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master-no-dang-nhap.css" crc="3829596743" ref="index"/>
+    <file name="master_a-master.css" crc="107776024" ref="capnhatthongtin:ketqua:thi-thử:xem-de:trang-chủ:lambai:thi:tin-tức"/>
+    <file name="capnhatthongtin.css" crc="157075231" ref="capnhatthongtin"/>
+    <file name="index.css" crc="475380663" ref="index"/>
+    <file name="ketqua.css" crc="4263642631" ref="ketqua"/>
+    <file name="thi-th_.css" crc="4238242681" ref="thi-thử"/>
+    <file name="xem-de.css" crc="126934543" ref="xem-de"/>
+    <file name="trang-ch_.css" crc="3792571027" ref="trang-chủ"/>
+    <file name="lambai.css" crc="420830885" ref="lambai"/>
+    <file name="thi.css" crc="3827885569" ref="thi"/>
+    <file name="tin-t_c.css" crc="121899037" ref="tin-tức"/>
+  </folder>
+  <folder name="fonts">
+    <file name="utmavo.woff" crc="105186548"/>
+    <file name="utmavo.eot" crc="4025860235"/>
+    <file name="utm-avobold.woff" crc="12584262"/>
+    <file name="utmavo1.eot" crc="4025860235"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin"/>
+    <file name="museutils.js" crc="340535759" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin"/>
+    <file name="whatinput.js" crc="86476730" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin"/>
+    <file name="museconfig.js" crc="310584261" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin"/>
+    <file name="webpro.js" crc="4059564322" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin"/>
+    <file name="touchswipe.js" crc="4075097462" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="trang-chủ:tin-tức:lambai:ketqua:index:capnhatthongtin"/>
+    <file name="jquery.watch.js" crc="51536988" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin"/>
+    <file name="html5shiv.js" crc="4241844378" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin"/>
+    <file name="require.js" crc="7928878" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin"/>
+  </folder>
+  <folder name="images">
+    <file name="cactus.jpg" crc="491424337" seo="true" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin">
+      <caption webpage="tin-tức" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin"/>
+    <file name="road.jpg" crc="180693847" seo="true" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin">
+      <caption webpage="tin-tức" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="trees.jpg" crc="4071309946" seo="true" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin">
+      <caption webpage="tin-tức" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="trang-chủ:index"/>
+    <file name="home-vector smart objectc.jpg" crc="254760687" ref="trang-chủ:index">
+      <caption webpage="trang-chủ" alt=""/>
+    </file>
+    <file name="home-vector smart objectc.png" crc="4228036174" seo="true" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin">
+      <caption webpage="tin-tức" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="home-logo-01c.png" crc="3806784294" seo="true" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin">
+      <caption webpage="tin-tức" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="home-vector smart objectc2.png" crc="420441850" seo="true" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin">
+      <caption webpage="tin-tức" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="home-img_5191c.png" crc="456813655" seo="true" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:capnhatthongtin">
+      <caption webpage="tin-tức" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="home-vector smart objectc3.png" crc="465868612" seo="true" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:capnhatthongtin">
+      <caption webpage="tin-tức" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="2676937-512.png" crc="404017828" seo="true" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:capnhatthongtin">
+      <caption webpage="tin-tức" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="home-vector smart objectc4.png" crc="3847938173" seo="true" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:capnhatthongtin">
+      <caption webpage="tin-tức" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="u2862.png" crc="3897199472" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:capnhatthongtin"/>
+    <file name="u2862-a.png" crc="3897199472" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:capnhatthongtin"/>
+    <file name="u2850.png" crc="257017696" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:capnhatthongtin"/>
+    <file name="u2850-a.png" crc="257017696" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:capnhatthongtin"/>
+    <file name="u2870.png" crc="513485193" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:capnhatthongtin"/>
+    <file name="u2870-a.png" crc="513485193" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:capnhatthongtin"/>
+    <file name="home-vector smart objectc5.png" crc="3769940376" seo="true" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:capnhatthongtin">
+      <caption webpage="tin-tức" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="home-layer 15c.jpg" crc="4062995520" seo="true" ref="trang-chủ">
+      <caption webpage="trang-chủ" alt=""/>
+    </file>
+    <file name="home-rectangle 4c.png" crc="240730431" seo="true" ref="trang-chủ">
+      <caption webpage="trang-chủ" alt=""/>
+    </file>
+    <file name="home-layer 13c.png" crc="4020045745" seo="true" ref="trang-chủ">
+      <caption webpage="trang-chủ" alt=""/>
+    </file>
+    <file name="home-rectangle 2c.png" crc="34283435" seo="true" ref="trang-chủ">
+      <caption webpage="trang-chủ" alt=""/>
+    </file>
+    <file name="home-layer 14c.jpg" crc="3867807823" seo="true" ref="trang-chủ">
+      <caption webpage="trang-chủ" alt=""/>
+    </file>
+    <file name="home-rectangle 3c.png" crc="86971180" seo="true" ref="trang-chủ">
+      <caption webpage="trang-chủ" alt=""/>
+    </file>
+    <file name="home-layer 16c.png" crc="3828982540" seo="true" ref="trang-chủ">
+      <caption webpage="trang-chủ" alt=""/>
+    </file>
+    <file name="home-rectangle 1c.png" crc="3778831559" seo="true" ref="trang-chủ">
+      <caption webpage="trang-chủ" alt=""/>
+    </file>
+    <file name="study-paper-512.png" crc="3947158587" seo="true" ref="trang-chủ">
+      <caption webpage="trang-chủ" alt=""/>
+    </file>
+    <file name="43-512.png" crc="3772689760" seo="true" ref="trang-chủ">
+      <caption webpage="trang-chủ" alt=""/>
+    </file>
+    <file name="avatar_default.png" crc="3980702210" seo="true" ref="trang-chủ:thi-thử">
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="024-512.png" crc="3996720679" seo="true" ref="trang-chủ">
+      <caption webpage="trang-chủ" alt=""/>
+    </file>
+    <file name="lab-512.png" crc="198901959" seo="true" ref="trang-chủ">
+      <caption webpage="trang-chủ" alt=""/>
+    </file>
+    <file name="dna_helix_medicine_hospital_healthcare_health-512.png" crc="4194736473" seo="true" ref="trang-chủ">
+      <caption webpage="trang-chủ" alt=""/>
+    </file>
+    <file name="black-galaxy-background-6.jpg" crc="162353739" ref="trang-chủ:index">
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-logo-01c2.png" crc="197566691" seo="true" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin">
+      <caption webpage="tin-tức" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="home-vector smart objectc6.png" crc="4272345823" seo="true" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin">
+      <caption webpage="tin-tức" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="home-vector smart objectc7.png" crc="4245374907" seo="true" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin">
+      <caption webpage="tin-tức" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="home-vector smart objectc8.png" crc="3928955246" seo="true" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin">
+      <caption webpage="tin-tức" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="home-vector smart objectc9.png" crc="3843344365" seo="true" ref="trang-chủ:thi-thử:tin-tức:thi:xem-de:lambai:ketqua:index:capnhatthongtin">
+      <caption webpage="tin-tức" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="ketqua" alt=""/>
+      <caption webpage="trang-chủ" alt=""/>
+      <caption webpage="thi-thử" alt=""/>
+    </file>
+    <file name="14_2.jpg" crc="435386394" ref="tin-tức">
+      <caption webpage="tin-tức" alt=""/>
+    </file>
+    <file name="home-vector smart objectc10.png" crc="20802956" seo="true" ref="thi:xem-de:lambai">
+      <caption webpage="lambai" alt=""/>
+      <caption webpage="thi" alt=""/>
+      <caption webpage="xem-de" alt=""/>
+    </file>
+    <file name="time.png" crc="4263662948" ref="lambai">
+      <caption webpage="lambai" alt=""/>
+    </file>
+    <file name="s_fb_button.png" crc="16411024" ref="ketqua">
+      <caption webpage="ketqua" alt=""/>
+    </file>
+    <file name="u10382.png" crc="3897199472" ref="index"/>
+    <file name="u10382-a.png" crc="3897199472" ref="index"/>
+    <file name="u10367.png" crc="257017696" ref="index"/>
+    <file name="u10367-a.png" crc="257017696" ref="index"/>
+    <file name="u10389.png" crc="513485193" ref="index"/>
+    <file name="u10389-a.png" crc="513485193" ref="index"/>
+    <file name="home-ellipse 1c.png" crc="482178746" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-ellipse 1c2.png" crc="3764376119" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="home-ellipse 1c3.png" crc="482178746" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon fb.png" crc="3780139631" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon gg.png" crc="4034224407" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="i-user@4x.png" crc="369340300" ref="index:capnhatthongtin">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+    </file>
+    <file name="email.png" crc="11709532" ref="index:capnhatthongtin">
+      <caption webpage="index" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+    </file>
+    <file name="home.png" crc="3945572504" ref="index:capnhatthongtin">
+      <caption webpage="index" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+    </file>
+    <file name="address.png" crc="526126374" ref="index:capnhatthongtin">
+      <caption webpage="index" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+    </file>
+    <file name="i-pass@4x.png" crc="3806854067" ref="index:capnhatthongtin">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+    </file>
+    <file name="file-picture-o-512.png" crc="249962637" seo="true" ref="index:capnhatthongtin">
+      <caption webpage="index" alt=""/>
+      <caption webpage="capnhatthongtin" alt=""/>
+    </file>
+    <file name="logo-notext@4x.png" crc="454892404" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg-login.jpg" crc="4071903989" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u11015-4.png" crc="323067353" ref="capnhatthongtin"/>
+    <file name="u11087.png" crc="160525458" ref="capnhatthongtin"/>
+    <file name="u11087-r.png" crc="4176250077" ref="capnhatthongtin"/>
+    <file name="u11087-a.png" crc="4137756593" ref="capnhatthongtin"/>
+    <file name="u11089.png" crc="4003449026" ref="capnhatthongtin"/>
+    <file name="u11089-r.png" crc="500126687" ref="capnhatthongtin"/>
+    <file name="u11089-a.png" crc="4123677781" ref="capnhatthongtin"/>
+  </folder>
+  <file name="trang-chủ.html" crc="234235483" seo="true" mt="1526443549997" redirect="true"/>
+  <file name="thi-thử.html" crc="424856537" seo="true" mt="1526443549997" redirect="true"/>
+  <file name="tin-tức.html" crc="88135364" seo="true" mt="1526443549997" redirect="true"/>
+  <file name="thi.html" crc="13434056" seo="true" mt="1526443549997" redirect="true"/>
+  <file name="xem-de.html" crc="4002782692" seo="true" mt="1526443549997" redirect="true"/>
+  <file name="lambai.html" crc="513572772" seo="true" mt="1526443549997" redirect="true"/>
+  <file name="ketqua.html" crc="484512888" seo="true" mt="1526443549997" redirect="true"/>
+  <file name="index.html" crc="29304401" seo="true" mt="1526443550000" redirect="true"/>
+  <file name="capnhatthongtin.html" crc="364945713" seo="true" mt="1526443549997" redirect="true"/>
+</manifest>

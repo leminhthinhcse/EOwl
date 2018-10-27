@@ -1,0 +1,180 @@
+.SSSlideLoading {
+	background: url("../images/loading.gif?crc=3815509949") no-repeat center center;
+}
+
+#u12986, #u10419 {
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+#u10503-4 {
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 14px;
+	font-family: '__UTM Avo_5';
+	font-weight: 700;
+}
+#u10509-4 {
+	background-color: transparent;
+	color: #000000;
+	font-family: '__UTM Avo_5';
+	font-weight: 400;
+	font-style: italic;
+}
+#u10512 {
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	background: transparent url("../images/icon%20fb.png?crc=3780139631") no-repeat center center;
+	background-size: contain;
+}
+#u10523 {
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	background: transparent url("../images/icon%20gg.png?crc=4034224407") no-repeat center center;
+	background-size: contain;
+}
+
+#u2818 {
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	background: #F79812 url("../images/home-vector%20smart%20objectc.jpg?crc=254760687") no-repeat left top;
+	background-size: cover;
+}
+#u11425-4 {
+	background-color: transparent;
+	line-height: 19px;
+	color: #000000;
+	font-size: 16px;
+	font-family: '__UTM Avo_5';
+	font-weight: 400;
+}
+#u11422-4 {
+	background-color: transparent;
+	line-height: 19px;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-family: '__UTM Avo_5';
+	font-weight: 400;
+}
+#u3237, #u2827, #u2829, #u2825, #u2831, #u2839, #u2841, #u2843, #u2860, #u2861 {
+	background-color: transparent;
+}
+#u2861:hover {
+	background-color: #000000;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	border-radius: 10px;
+}
+#u2862 {
+	vertical-align: top;
+	background: transparent url("../images/u2862.png?crc=3897199472") no-repeat 0px 0px;
+}
+#u2861.MuseMenuActive #u2862 {
+	background: transparent url("../images/u2862-a.png?crc=3897199472") no-repeat 0px 0px;
+}
+#u2846, #u2847 {
+	background-color: transparent;
+}
+#u2847:hover {
+	background-color: #000000;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	border-radius: 10px;
+}
+#u2850 {
+	vertical-align: top;
+	background: transparent url("../images/u2850.png?crc=257017696") no-repeat 0px 0px;
+}
+#u2847.MuseMenuActive #u2850 {
+	background: transparent url("../images/u2850-a.png?crc=257017696") no-repeat 0px 0px;
+}
+#u2867, #u2868 {
+	background-color: transparent;
+}
+#u2868:hover {
+	background-color: #000000;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	border-radius: 10px;
+}
+#u2861.MuseMenuActive, #u2847.MuseMenuActive, #u2868.MuseMenuActive {
+	background-color: #000000;
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	border-radius: 10px;
+}
+#u2870 {
+	vertical-align: top;
+	background: transparent url("../images/u2870.png?crc=513485193") no-repeat 0px 0px;
+}
+#u2868.MuseMenuActive #u2870 {
+	background: transparent url("../images/u2870-a.png?crc=513485193") no-repeat 0px 0px;
+}
+.SSFirstButton, .SSPreviousButton, .SSNextButton, .SSLastButton, .SSSlideLink, .SSCloseButton, .MenuItem {
+	cursor: pointer;
+}
+#u3238, #u3240, #u3242, #u14720, #menuu2845, #u4485 {
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+#u4488-4 {
+	background-color: transparent;
+	line-height: 22px;
+	color: #000000;
+	font-size: 18px;
+	font-family: '__UTM Avo_5';
+	font-weight: 400;
+}
+#u3054 {
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	background: #373737 url("../images/black-galaxy-background-6.jpg?crc=162353739") no-repeat left top;
+	background-size: cover;
+}
+#u3067-4 {
+	background-color: transparent;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	letter-spacing: 0px;
+	font-family: '__UTM Avo_5';
+	font-weight: 700;
+}
+#u3068-4 {
+	background-color: transparent;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-size: 18px;
+	font-family: '__UTM Avo_5';
+	font-weight: 700;
+}
+#u4486, #u3057, #u3059, #u3061, #u3063, #u3065 {
+	background-color: transparent;
+}
+#u3055 {
+	background-color: #000000;
+}
+#u3069-4 {
+	background-color: transparent;
+	line-height: 19px;
+	color: #FFFFFF;
+	font-size: 16px;
+	text-align: left;
+	font-family: '__UTM Avo_5';
+	font-weight: 400;
+}
+#u3056-10, #u3070-4 {
+	background-color: transparent;
+	color: #FFFFFF;
+	font-family: '__UTM Avo_5';
+	font-weight: 400;
+}
